@@ -1,2 +1,2 @@
-# Algorigthm_scripting
+# Algorithm_scripting
 FreeCodeCamp Algorithm Scripting Exercises
